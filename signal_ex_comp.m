@@ -1,4 +1,5 @@
-//This MATLAB script demonstrates signal expansion and compression through a comparison with an original signal. Here’s a step-by-step explanation:
+//This MATLAB script demonstrates signal expansion and compression through a comparison with an original signal. 
+
 
 
 

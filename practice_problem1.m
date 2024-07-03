@@ -1,4 +1,4 @@
-//This MATLAB script demonstrates a signal manipulation process where values of a cosine signal are clipped at ±0.5 and plotted. Here is a step-by-step explanation:
+//This MATLAB script demonstrates a signal manipulation process where values of a cosine signal are clipped at ±0.5 and plotted. 
 
 t=0:0.001:4;
 vs=cos(pi*t); x=vs;
